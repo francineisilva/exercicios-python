@@ -1,2 +1,2 @@
 # exercicios-python
- Estou insetindo alguns exercicios de Python
+ Estou inserindo alguns exercicios de Python
