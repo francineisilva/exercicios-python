@@ -6,3 +6,4 @@
 #Toda vez que um texto estiver dentro de aspas "", isso quer dizer que é uma STRING, ou seja, e um texto definido pelo DEV.
 
 print("Olá, Mundo!")
+
